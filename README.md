@@ -73,6 +73,10 @@ email: info.mustafa.b@gmail.com
         <sub>Online learning platform: courses, mentor chat, enrollments</sub>
       </td>
       <td align="center" width="200">
+        <b>📈 TrendPulse</b><br/>
+        <sub>Trend discovery: Web, Reddit, HN, YouTube in real-time</sub>
+      </td>
+      <td align="center" width="200">
         <b>📊 Qwen3.5 Datasets</b><br/>
         <sub>225k+ function calling & tool calling training datasets on HF</sub>
       </td>
@@ -80,7 +84,7 @@ email: info.mustafa.b@gmail.com
   </table>
 </div>
 
-> 🌐 **Portfolio:** [mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio](https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/) — 14 AI/ML projects showcase with demos
+> 🌐 **Portfolio:** [mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio](https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/) — 15 AI/ML projects showcase with demos
 
 ---
 
@@ -110,7 +114,8 @@ email: info.mustafa.b@gmail.com
 | <img src="https://skillicons.dev/icons?i=github" width="16"/> GitHub | Research & experiments | [ainsighthub-lab](https://github.com/ainsighthub-lab) |
 | <img src="https://skillicons.dev/icons?i=vercel" width="16"/> Vercel | AgentZero — AI Agent Platform | [agentzero-pi.vercel.app](https://agentzero-pi.vercel.app) |
 | <img src="https://skillicons.dev/icons?i=vercel" width="16"/> Vercel | ApexCampus — Online Learning | [apexcampus.vercel.app](https://apexcampus.vercel.app) |
-| 🌍 Portfolio | 14 AI/ML projects with interactive demos | [mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio](https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/) |
+| <img src="https://skillicons.dev/icons?i=vercel" width="16"/> Vercel | TrendPulse — Trend Discovery | [trendpulse-green.vercel.app](https://trendpulse-green.vercel.app) |
+| 🌍 Portfolio | 15 AI/ML projects with interactive demos | [mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio](https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/) |
 
 ---
 
