@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://mustafabozkaya.github.io"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   <a href="https://github.com/mustafabozkaya"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mustafa-bozkaya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/ainsighthubs"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
@@ -80,7 +80,7 @@ email: info.mustafa.b@gmail.com
   </table>
 </div>
 
-> 🌐 **Portfolio:** [mustafabozkaya.github.io](https://mustafabozkaya.github.io) — Full project showcase with demos
+> 🌐 **Portfolio:** [mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio](https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/) — 12 AI/ML projects showcase with demos
 
 ---
 
@@ -107,7 +107,8 @@ email: info.mustafa.b@gmail.com
 |---|---|---|
 | <img src="https://skillicons.dev/icons?i=huggingface" width="16"/> HuggingFace | 9 datasets, 5 models, 2 spaces | [Mustafaege](https://huggingface.co/Mustafaege) |
 | <img src="https://skillicons.dev/icons?i=github" width="16"/> GitHub | AI/ML portfolio, SaaS apps | [mustafabozkaya](https://github.com/mustafabozkaya) |
-| <img src="https://skillicons.dev/icons?i=github" width="16"/> GitHub | Research & experiments | [ain sighthub-lab](https://github.com/ainsighthub-lab) |
+| <img src="https://skillicons.dev/icons?i=github" width="16"/> GitHub | Research & experiments | [ainsighthub-lab](https://github.com/ainsighthub-lab) |
+| 🌍 Portfolio | 12 AI/ML projects with interactive demos | [mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio](https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/) |
 
 ---
 
@@ -119,6 +120,7 @@ email: info.mustafa.b@gmail.com
   <a href="https://x.com/ainsighthubs"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
   <a href="https://youtube.com/@mbs_ainsighthub"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://huggingface.co/Mustafaege"><img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=000"/></a>
+  <a href="https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 </p>
 
 <p align="center">
