@@ -56,8 +56,8 @@ email: info.mustafa.b@gmail.com
   <a href="https://github.com/mustafabozkaya/AI-ML-DL-DS_Projects_Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustafabozkaya&repo=AI-ML-DL-DS_Projects_Portfolio&theme=tokyonight&border_radius=10" />
   </a>
-  <a href="https://github.com/mustafabozkaya/AI-ML-DL-DS_Projects_Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustafabozkaya&repo=AI-ML-DL-DS_Projects_Portfolio&theme=tokyonight&border_radius=10&hide_border=false" />
+  <a href="https://agentzero-pi.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustafabozkaya&repo=Awesome_Agent_Rag_LMMs_apps&theme=tokyonight&border_radius=10" />
   </a>
 </div>
 
@@ -80,7 +80,7 @@ email: info.mustafa.b@gmail.com
   </table>
 </div>
 
-> 🌐 **Portfolio:** [mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio](https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/) — 12 AI/ML projects showcase with demos
+> 🌐 **Portfolio:** [mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio](https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/) — 14 AI/ML projects showcase with demos
 
 ---
 
@@ -108,7 +108,9 @@ email: info.mustafa.b@gmail.com
 | <img src="https://skillicons.dev/icons?i=huggingface" width="16"/> HuggingFace | 9 datasets, 5 models, 2 spaces | [Mustafaege](https://huggingface.co/Mustafaege) |
 | <img src="https://skillicons.dev/icons?i=github" width="16"/> GitHub | AI/ML portfolio, SaaS apps | [mustafabozkaya](https://github.com/mustafabozkaya) |
 | <img src="https://skillicons.dev/icons?i=github" width="16"/> GitHub | Research & experiments | [ainsighthub-lab](https://github.com/ainsighthub-lab) |
-| 🌍 Portfolio | 12 AI/ML projects with interactive demos | [mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio](https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/) |
+| <img src="https://skillicons.dev/icons?i=vercel" width="16"/> Vercel | AgentZero — AI Agent Platform | [agentzero-pi.vercel.app](https://agentzero-pi.vercel.app) |
+| <img src="https://skillicons.dev/icons?i=vercel" width="16"/> Vercel | ApexCampus — Online Learning | [apexcampus.vercel.app](https://apexcampus.vercel.app) |
+| 🌍 Portfolio | 14 AI/ML projects with interactive demos | [mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio](https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/) |
 
 ---
 
