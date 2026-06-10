@@ -123,10 +123,6 @@ email: info.mustafa.b@gmail.com
   <a href="https://mustafabozkaya.github.io/AI-ML-DL-DS_Projects_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 </p>
 
-<p align="center">
-  <b>B Sınıfı Ehliyet 🚗</b>
-</p>
-
 ---
 
 <div align="center">
